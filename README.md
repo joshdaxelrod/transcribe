@@ -185,3 +185,7 @@ Of course, some important caveats apply:
 MIT — see [LICENSE](LICENSE).
 
 Built with AI assistance (Claude), reviewed and tested by me.
+
+## About
+
+Written by [Josh Axelrod](https://josh-axelrod.com), an investigative reporter and 2023–24 Fulbright Journalism Fellow based in Berlin, Germany. He covers extremism, disinformation, and technology; his work has appeared in WIRED, Mother Jones, Deutsche Welle, Die Zeit, The Daily Beast, NPR, and more.
