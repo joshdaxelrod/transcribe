@@ -56,7 +56,7 @@ curl -L -o ~/.whisper-cpp/models/ggml-small.bin \
 
 1. Click the green **Code** button near the top of this page, then **Download ZIP**.
 2. Find the downloaded file — usually in your **Downloads** folder — and double-click it to unzip. This creates a folder called `transcribe-main`.
-3. Open Terminal (see Requirements above if you haven't already).
+3. Open Terminal.
 4. Move into that folder — if it's in Downloads, this is:
 
    ```bash
