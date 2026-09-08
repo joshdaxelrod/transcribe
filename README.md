@@ -6,7 +6,7 @@ What I especially like about it is that everything runs locally — you don't ha
 
 Depending on whether interviews are sensitive or not, I then take my transcribed .txt files and upload them to a project in Claude with strict instructions to only answer questions based on verbatim information pulled from my interviews. That creates a searchable, queryable corpus of interviews, which I find immensely useful for drafting. More info on that in the LLM section.
 
-Of course, there are plenty of other transcription tools out there that are far more sophisticated than this one. My aim is to share tools and tricks that simplify my workflow and let me focus on the fun part of journalism: writing and reporting. 
+Of course, there are plenty of other transcription tools out there that are far more sophisticated than this one. My aim is to share tools and tricks that simplify my workflow and let me focus on the fun part of journalism: writing and reporting.
 
 ## What it does
 
