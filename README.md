@@ -2,9 +2,9 @@
 
 Often when I'm working on a story, I'll record 5 or more Zoom interviews. These .m4a recordings sit in a folder on my desktop collecting dust, reminding me I need to organize my notes, find relevant quotes, and start writing. I used to pay for Otter (80 bucks a year as a freelance journalist, egad!) and then I used a wonderful service called Scroll that was free for journalists. Until it shut down, womp womp. So I decided to build my own tool that relies on OpenAI's Whisper and spits out quick transcripts for free, when I'm under deadline.
 
-What I especially like about it is that everything runs locally — you don't have to upload files anywhere, recordings and transcripts all live on your computer.
+What I especially like about it is that everything runs locally. You don't have to upload files anywhere — recordings and transcripts all live on your computer.
 
-Depending on whether interviews are sensitive or not, I then take my transcribed .txt files and upload them to a project in Claude with strict instructions to only answer questions based on verbatim information pulled from my interviews. That creates a searchable, queryable corpus of interviews, which I find immensely useful for drafting. More info on that in the LLM section.
+Depending on whether interviews are sensitive or not, I then take my transcribed .txt files and upload them to a project in Claude with strict instructions to only answer questions based on verbatim information pulled from my interviews. That creates a searchable, queryable corpus of interviews, which I find immensely useful for information-dense and multiple-interview drafts. More info on that in the LLM section.
 
 Of course, there are plenty of other transcription tools out there that are far more sophisticated than this one. My aim is to share tools and tricks that simplify my workflow and let me focus on the fun part of journalism: writing and reporting.
 
