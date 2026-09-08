@@ -99,7 +99,7 @@ cd ~/Desktop/interviews
 transcribe
 ```
 
-`cd` ("change directory") tells Terminal which folder to work in — here, `~/Desktop/interviews` stands in for wherever your recordings actually are. The easiest way to get that right without typing out a path by hand: in Terminal, type `cd ` (with a space after it, nothing else yet), then find that folder in Finder and drag it straight onto the Terminal window. Terminal will fill in the correct path for you automatically. Press Return, then run `transcribe`.
+`cd` ("change directory") tells Terminal which folder to work in. `~/Desktop/interviews` means the folder called `interviews` on your Desktop — if your recordings live in a folder with a different name, type that name instead (e.g. `cd ~/Desktop/carbon-capture`). If the folder isn't on your Desktop, replace `Desktop` with wherever it actually is.
 
 Once you're standing in that folder, `transcribe` processes every `.m4a` and `.wav` file it finds there.
 
