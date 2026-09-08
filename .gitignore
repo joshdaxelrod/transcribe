@@ -1,0 +1,20 @@
+# Audio and transcripts — never commit interview material
+*.m4a
+*.wav
+*.mp3
+*.srt
+*_timestamps.txt
+*.partial
+
+# Whisper models (large binaries)
+*.bin
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
