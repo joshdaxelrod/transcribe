@@ -160,7 +160,7 @@ My workflow:
    >
    > **Cross-transcript synthesis** — When asked what sources said about a topic, compare and contrast across all transcripts. Flag agreements, contradictions, and gaps. Note when only one source addressed something the others didn't.
    >
-   > **Story organization** — Help the reporter identify emerging themes, potential story angles, and what's missing. If a quote is hard to attribute confidently, say so. If you didn't find anything relevant on a topic, say so rather than reaching.
+   > **Story organization** — Help the reporter identify emerging themes, potential story angles, and what's missing. 
 
 4. Then ask it things like "What did any source say about X?", "Pull every quote about Y, with timestamps," or "Which interviews mention Z?"
 
