@@ -99,7 +99,9 @@ cd ~/Desktop/interviews
 transcribe
 ```
 
-That processes every `.m4a` and `.wav` file it finds in the folder you're standing in.
+`cd` ("change directory") tells Terminal which folder to work in — here, `~/Desktop/interviews` stands in for wherever your recordings actually are. The easiest way to get that right without typing out a path by hand: in Terminal, type `cd ` (with a space after it, nothing else yet), then find that folder in Finder and drag it straight onto the Terminal window. Terminal will fill in the correct path for you automatically. Press Return, then run `transcribe`.
+
+Once you're standing in that folder, `transcribe` processes every `.m4a` and `.wav` file it finds there.
 
 **Single file** — give the basename, without the extension:
 
@@ -162,7 +164,7 @@ My workflow:
 
 4. Then ask it things like "What did any source say about X?", "Pull every quote about Y, with timestamps," or "Which interviews mention Z?"
 
-That turns hours of scrubbing through recordings into a few seconds of search, while keeping the actual writing and editorial judgment with me — the model is retrieving, not drafting.
+That turns hours of scrubbing through recordings into a few seconds of search, while keeping the actual writing and editorial judgment with me.
 
 Of course, some important caveats apply:
 
