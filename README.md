@@ -183,7 +183,7 @@ Of course, some important caveats apply:
 
 MIT — see [LICENSE](LICENSE).
 
-Built with AI assistance (Claude), reviewed and tested by me.
+Built with AI assistance (Claude Sonnet 5), reviewed and tested by me.
 
 ## About
 
